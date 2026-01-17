@@ -12,7 +12,7 @@ and usability.
 - Verified the final cleaned dataset
 
 ## Tools Used
-- Excel
+- Microsoft Excel (data cleaning, formulas, basic analysis)
 
 ## Outcome
 The final dataset is clean, structured, and ready for analysis or visualization.
